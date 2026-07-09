@@ -1,4 +1,4 @@
-🚀 Learn Machine Learning by Building
+### 🚀 Learn Machine Learning by Building
 
 This repository is more than a collection of notebooks—it's a structured Machine Learning learning path designed to help beginners build a strong foundation and gain practical experience.
 
