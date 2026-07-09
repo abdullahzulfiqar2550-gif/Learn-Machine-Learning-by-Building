@@ -1,14 +1,7 @@
 # 🤖 Machine Learning for Beginners & Industry Practice
 
 > A complete hands-on Machine Learning repository designed to help beginners learn from scratch and build real-world projects with confidence.
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/badge/Open%20Source-Yes-success)
-
 ---
-
 # 📖 About This Repository
 
 This repository is a practical Machine Learning learning path built from beginner to intermediate level.
