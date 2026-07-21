@@ -25,30 +25,7 @@ This repository covers the complete Machine Learning lifecycle:
 - 📊 ROC Curve Analysis
 - 💾 Model Saving (Joblib & Pickle)
 - 🌐 Model Deployment
-
----
-
-# 📁 Repository Structure
-
-```
-Machine Learning
-│
-├── Data Import & Understanding
-├── Exploratory Data Analysis (EDA)
-├── Data Preprocessing
-├── Feature Engineering
-├── Feature Selection
-├── Supervised Learning
-├── Unsupervised Learning
-├── Model Evaluation
-├── Hyperparameter Tuning
-├── Ensemble Learning
-├── Model Saving
-└── Deployment
-```
-
----
-
+- 
 # 📈 Regression Algorithms
 
 - Linear Regression
